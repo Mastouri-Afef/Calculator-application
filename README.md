@@ -1,1 +1,1 @@
-# Calculator-application
+# Lifestyle-application
